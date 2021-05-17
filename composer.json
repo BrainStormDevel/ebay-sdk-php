@@ -1,5 +1,5 @@
 {
-    "name": "benmorel/ebay-sdk-php",
+    "name": "brainstormdevel/ebay-sdk-php",
     "description": "An eBay SDK for PHP. Fork of dts/ebay-sdk-php with support for PHP 8.",
     "keywords": ["ebay", "api", "sdk"],
     "type": "library",
@@ -13,6 +13,10 @@
         {
           "name": "Benjamin Morel",
           "email": "benjamin.morel@gmail.com"
+        },
+        {
+          "name": "Davide Bonsangue",
+          "email": "davidebonsangue@gmail.com"
         }
     ],
     "require": {
